@@ -1,0 +1,37 @@
+[
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0.0,
+    "name": "Module.framework",
+    "executableLines": 4830,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 930,
+    "lineCoverage": 0.98204857444561777,
+    "name": "ModuleTests.xctest",
+    "executableLines": 947,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0.0,
+    "name": "App.app",
+    "executableLines": 35995,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 2373,
+    "lineCoverage": 0.97493837304847986,
+    "name": "AppTests.xctest",
+    "executableLines": 2434,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0,
+    "name": "StickerPackExtension.appex",
+    "executableLines": 0,
+    "buildProductPath": ""
+  }
+]

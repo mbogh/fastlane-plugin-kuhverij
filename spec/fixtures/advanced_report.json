@@ -1,0 +1,324 @@
+[
+  {
+    "coveredLines": 321,
+    "lineCoverage": 0.90677966101694918,
+    "name": "ModuleATests.xctest",
+    "executableLines": 354,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 801,
+    "lineCoverage": 0.16583850931677019,
+    "name": "ModuleI.framework",
+    "executableLines": 4830,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 36,
+    "lineCoverage": 0.78260869565217395,
+    "name": "ModuleAD.framework",
+    "executableLines": 46,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 28,
+    "lineCoverage": 0.037283621837549935,
+    "name": "ModuleAE.framework",
+    "executableLines": 751,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 785,
+    "lineCoverage": 0.52861952861952866,
+    "name": "ModuleD.framework",
+    "executableLines": 1485,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 53,
+    "lineCoverage": 1,
+    "name": "ModuleBTests.xctest",
+    "executableLines": 53,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 600,
+    "lineCoverage": 0.092250922509225092,
+    "name": "ModuleA.framework",
+    "executableLines": 6504,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 80,
+    "lineCoverage": 0.14981273408239701,
+    "name": "ModuleAF.framework",
+    "executableLines": 534,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 62,
+    "lineCoverage": 0.43356643356643354,
+    "name": "ModuleB.framework",
+    "executableLines": 143,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 18,
+    "lineCoverage": 0.1875,
+    "name": "ModuleE.framework",
+    "executableLines": 96,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 30,
+    "lineCoverage": 0.25210084033613445,
+    "name": "ModuleF.framework",
+    "executableLines": 119,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 930,
+    "lineCoverage": 0.98204857444561777,
+    "name": "ModuleDTests.xctest",
+    "executableLines": 947,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 108,
+    "lineCoverage": 0.94736842105263153,
+    "name": "ModuleZTests.xctest",
+    "executableLines": 114,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 4559,
+    "lineCoverage": 0.12665648006667593,
+    "name": "App.app",
+    "executableLines": 35995,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 1064,
+    "lineCoverage": 0.92281006071118821,
+    "name": "ModuleGTests.xctest",
+    "executableLines": 1153,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 122,
+    "lineCoverage": 0.5083333333333333,
+    "name": "ModuleH.framework",
+    "executableLines": 240,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 515,
+    "lineCoverage": 0.81358609794628756,
+    "name": "ModuleITests.xctest",
+    "executableLines": 633,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0,
+    "name": "ModuleJTests.xctest",
+    "executableLines": 0,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 12,
+    "lineCoverage": 0.25531914893617019,
+    "name": "ModuleK.framework",
+    "executableLines": 47,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 32,
+    "lineCoverage": 0.040100250626566414,
+    "name": "ModuleL.framework",
+    "executableLines": 798,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 9,
+    "lineCoverage": 1,
+    "name": "ModuleMTests.xctest",
+    "executableLines": 9,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 2373,
+    "lineCoverage": 0.97493837304847986,
+    "name": "AppTests.xctest",
+    "executableLines": 2434,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 25,
+    "lineCoverage": 0.37313432835820898,
+    "name": "ModuleAA.framework",
+    "executableLines": 67,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 1631,
+    "lineCoverage": 0.19784085395439108,
+    "name": "ModuleC.framework",
+    "executableLines": 8244,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 411,
+    "lineCoverage": 0.13089171974522293,
+    "name": "ModuleAB.framework",
+    "executableLines": 3140,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 85,
+    "lineCoverage": 0.25222551928783382,
+    "name": "ModuleAC.framework",
+    "executableLines": 337,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 44,
+    "lineCoverage": 0.16730038022813687,
+    "name": "ModuleZ.framework",
+    "executableLines": 263,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 353,
+    "lineCoverage": 0.22215229704216488,
+    "name": "ModuleX.framework",
+    "executableLines": 1589,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 65,
+    "lineCoverage": 0.090027700831024932,
+    "name": "ModuleW.framework",
+    "executableLines": 722,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0,
+    "name": "ModuleV.framework",
+    "executableLines": 844,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 19,
+    "lineCoverage": 0.21839080459770116,
+    "name": "ModuleU.framework",
+    "executableLines": 87,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 28,
+    "lineCoverage": 0.27722772277227725,
+    "name": "ModuleT.framework",
+    "executableLines": 101,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 94,
+    "lineCoverage": 0.28746177370030579,
+    "name": "ModuleP.framework",
+    "executableLines": 327,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 0,
+    "lineCoverage": 0,
+    "name": "StickerPackExtension.appex",
+    "executableLines": 0,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 104,
+    "lineCoverage": 0.80620155038759689,
+    "name": "ModuleO.framework",
+    "executableLines": 129,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 338,
+    "lineCoverage": 0.98255813953488369,
+    "name": "ModuleHTests.xctest",
+    "executableLines": 344,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 364,
+    "lineCoverage": 0.97587131367292224,
+    "name": "ModuleCTests.xctest",
+    "executableLines": 373,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 45,
+    "lineCoverage": 0.569620253164557,
+    "name": "ModulePTests.xctest",
+    "executableLines": 79,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 75,
+    "lineCoverage": 0.7009345794392523,
+    "name": "ModuleOTests.xctest",
+    "executableLines": 107,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 5,
+    "lineCoverage": 0.034246575342465752,
+    "name": "ModuleS.framework",
+    "executableLines": 146,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 5,
+    "lineCoverage": 0.17241379310344829,
+    "name": "ModuleR.framework",
+    "executableLines": 29,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 834,
+    "lineCoverage": 0.49613325401546698,
+    "name": "ModuleJ.framework",
+    "executableLines": 1681,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 52,
+    "lineCoverage": 0.12470023980815348,
+    "name": "ModuleQ.framework",
+    "executableLines": 417,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 349,
+    "lineCoverage": 0.21977329974811083,
+    "name": "ModuleG.framework",
+    "executableLines": 1588,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 451,
+    "lineCoverage": 0.55610357583230574,
+    "name": "ModuleN.framework",
+    "executableLines": 811,
+    "buildProductPath": ""
+  },
+  {
+    "coveredLines": 924,
+    "lineCoverage": 0.38324346744089588,
+    "name": "ModuleM.framework",
+    "executableLines": 2411,
+    "buildProductPath": ""
+  }
+]
