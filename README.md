@@ -1,6 +1,7 @@
 # kuhverij plugin
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-kuhverij)
+[![Build Status](https://travis-ci.org/mbogh/fastlane-plugin-kuhverij.svg?branch=master)](https://travis-ci.org/mbogh/fastlane-plugin-kuhverij)
 
 ## Getting Started
 
