@@ -1,0 +1,2 @@
+2019-11-20 13:48:00.227 xccov[46971:253095] Requested but did not find extension point with identifier Xcode.IDEFoundation.IDEResultKitSerializationConverter
+[{"coveredLines":1349,"lineCoverage":0.97400722021660646,"name":"Module.xctest","executableLines":1385,"buildProductPath":""},{"coveredLines":345,"lineCoverage":0.9691011235955056,"name":"Module.framework","executableLines":356,"buildProductPath":""}]

@@ -8,12 +8,24 @@ module Fastlane
 
       def self.run(params)
         derived_data_path = params[:derived_data_path]
-        coverage_report_path = Dir["#{derived_data_path}/**/*.xccovreport"].first
-        UI.user_error!("No '.xccovreport' could be found at #{derived_data_path}") if coverage_report_path.nil?
 
         commands = []
-        command = "xcrun xccov view --only-targets --json"
-        command << " #{coverage_report_path.shellescape}"
+
+        coverage_report_path = Dir["#{derived_data_path}/**/*.xccovreport"].first
+        result_bundle_path = Dir["#{derived_data_path}/**/*.xcresult"].first
+
+        if !coverage_report_path.nil?
+          command = "xcrun xccov view --only-targets --json"
+          command << " #{coverage_report_path.shellescape}"
+        elsif !result_bundle_path.nil?
+          UI.important("No '.xccovreport' could be found at #{derived_data_path} will look for '.xcresult'")
+
+          command = "xcrun xccov view --report --only-targets --json"
+          command << " #{result_bundle_path.shellescape}"
+        else
+          UI.user_error!("No '.xccovreport' or '.xcresult' could be found at #{derived_data_path}")
+        end
+
         commands << command
 
         code_coverage_json = Fastlane::Actions.sh(command, log: false)
@@ -25,7 +37,7 @@ module Fastlane
       end
 
       def self.code_coverage_message(json_string)
-        code_coverage = JSON.parse(json_string)
+        code_coverage = JSON.parse(strip_debug(json_string))
         covered_lines = 0
         executable_lines = 0
 
@@ -40,6 +52,15 @@ module Fastlane
         message = format("Code Coverage: %.2f%%", percentage)
 
         message
+      end
+
+      def self.strip_debug(json_string)
+        result = ""
+        json_string.each_line do |line|
+          result << line unless line.include?('xccov[')
+        end
+
+        result
       end
 
       def self.should_skip_target(name)
